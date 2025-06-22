@@ -1,0 +1,1556 @@
+Jun 22, 2025 9:04:53 AM Server main
+INFO: Secure TLS server is starting...
+Jun 22, 2025 9:04:53 AM Server main
+INFO: TLS server started on port: 8443
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:05:25 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:07 AM Server main
+INFO: Secure TLS server is starting...
+Jun 22, 2025 9:09:07 AM Server main
+INFO: TLS server started on port: 8443
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:09:15 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:50 AM Server main
+INFO: Secure TLS server is starting...
+Jun 22, 2025 9:11:51 AM Server main
+INFO: TLS server started on port: 8443
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:56 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:11:57 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:42 AM Server main
+INFO: Secure TLS server is starting...
+Jun 22, 2025 9:13:42 AM Server main
+INFO: TLS server started on port: 8443
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:50 AM Server main
+FINE: Accepted secure client connection.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Client connected: /127.0.0.1
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+INFO: Received command: HELLO
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
+Jun 22, 2025 9:13:51 AM Server lambda$getConsumer$0
+FINE: Connection with client closed successfully.
